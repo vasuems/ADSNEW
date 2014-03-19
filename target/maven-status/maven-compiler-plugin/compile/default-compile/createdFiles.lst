@@ -1,0 +1,4 @@
+com\ads\businessentities\User.class
+com\ads\businessobjects\IBusinessObject.class
+com\ads\businessobjects\UserBusinessObject.class
+test\java\UserBusinessObjectsTest.class
