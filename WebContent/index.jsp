@@ -16,6 +16,9 @@ Last Name: <p/><input type=text></input>
 <p/>
 Gender: <p/><input type=text></input>
 <p/>
+<p/>
+Date Of Birth: <p/><input type=text></input>
+<p/>
 Password:<p/><input type=text></input>
 </body>
 </html>
