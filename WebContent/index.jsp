@@ -10,7 +10,9 @@
 <body>
 Welcome to ADS. Hi once again welcome to ADS. I am a JSP page
 <p/>
-Name:<p/><input type=text></input>
+First Name:<p/><input type=text></input>
+<p/>
+Last Name: <p/><input type=text></input>
 <p/>
 Password:<p/><input type=text></input>
 </body>
